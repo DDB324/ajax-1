@@ -1,2 +1,6 @@
-# ajax-1
-使用`node-dev server.js 8888`打开
+# 代码使用方法
+`
+npm install -g node-dev
+
+node-dev server.js 8888
+`
